@@ -16,6 +16,6 @@
 -- React code 要放在 Vercel 雲端，可以直接呼叫 Supabase 或  render 雲端
 ![](p7.png)
 
-GITHUB:https://github.com/Pch0025677/210410543MID_Clien
-VERCEL:https://vercel.com/pch0025677/210410543-mid-clien
-RENDER:https://210410543-mid.onrender.com
+GITHUB:https://github.com/Pch0025677/112-MID-Clien
+VERCEL:https://vercel.com/pch0025677/112-mid-clien
+RENDER:https://one12-mid-server.onrender.com
