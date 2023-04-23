@@ -20,7 +20,7 @@ const BlogsLocalJsonPage_xx = () => {
         </div>
         <div className='blogs-center2'>
           {blogs.map((item) => {
-            const { id, img, remote_img, category, title, descrip } = item;
+            const { id, img, remote_img, category, title, desc } = item;
             return (
               <article key={id} className='blog'>
                 <img src={img} alt={title} className='img blog-img' />
@@ -29,7 +29,7 @@ const BlogsLocalJsonPage_xx = () => {
                     {category} <i className='fa-solid fa-mug-saucer'></i>
                   </span>
                   <h3>{title}</h3>
-                  <p>{descrip}</p>
+                  <p>{desc}</p>
                   <a href='#'>read more</a>
                 </div>
               </article>
