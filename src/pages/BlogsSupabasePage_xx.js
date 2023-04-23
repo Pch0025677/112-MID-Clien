@@ -47,7 +47,7 @@ const BlogsSupabasePage_xx = () => {
         </div>
         <div className='blogs-center2'>
           {blogs.map((item) => {
-            const { id, img, remote_img, category, title, desc } = item;
+            const { id, img, remote_img, category, title, descrip } = item;
             return (
               <article key={id} className='blog'>
                 <img src={img} alt={title} className='img blog-img' />
@@ -56,7 +56,7 @@ const BlogsSupabasePage_xx = () => {
                     {category} <i className='fa-solid fa-mug-saucer'></i>
                   </span>
                   <h3>{title}</h3>
-                  <p>{desc}</p>
+                  <p>{descrip}</p>
                   <a href='#'>read more</a>
                 </div>
               </article>
