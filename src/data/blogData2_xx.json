@@ -1,0 +1,75 @@
+
+[
+  {
+      "id": 1,
+      "title": "Spider-Man Peter Parker",
+      "descrip": "In Earth-616",
+      "category": "Spider-Man",
+      "img": "/images/photo-1.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-1.jpg"
+  },
+  {
+      "id": 2,
+      "title": "Spider-Gawn Gawn Stacty",
+      "descrip": "In Earth-65",
+      "category": "Spider-Lady",
+      "img": "/images/photo-2.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-2.jpg"
+  },
+  {
+      "id": 3,
+      "title": "Spider-Man Miles Morales",
+      "descrip": "In Earth-1610",
+      "category": "Spider-Man",
+      "img": "/images/photo-3.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-3.jpg"
+  },
+  {
+      "id": 4,
+      "title": "Spider-Man 2099 Miguel O'Hara",
+      "descrip": "In Earth-928",
+      "category": "Spider-Man",
+      "img": "/images/photo-4.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-4.jpg"
+  },
+  {
+      "id": 5,
+      "title": "The Amazing Spider-Man Peter Benjamin Parker",
+      "descrip": "In Earth-166100",
+      "category": "Spider-Man",
+      "img": "/images/photo-5.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-5.jpg"
+  },
+  {
+      "id": 6,
+      "title": "The Amazing Spider-Man Tobey Maguire",
+      "descrip": "In Earth-166101",
+      "category": "Spider-Man",
+      "img": "/images/photo-6.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-6.jpg"
+  },
+  {
+      "id": 7,
+      "title": "Spider-Man PS5 Peter Parker",
+      "descrip": "In Earth-1048",
+      "category": "Spider-Man",
+      "img": "/images/photo-7.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-7.jpg"
+  },
+  {
+      "id": 8,
+      "title": "Spider-Man Peter Parker Venom",
+      "descrip": "In Earth-616",
+      "category": "Spider-Man",
+      "img": "/images/photo-8.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-8.jpg"
+  },
+  {
+      "id": 9,
+      "title": "Spider-Man Peter Parker MKII",
+      "descrip": "In Earth-616",
+      "category": "Spider-Man",
+      "img": "/images/photo-9.jpg",
+      "remote_img": "https://dmnkstwjwvywbbjpyytg.supabase.co/storage/v1/object/public/demo-43/card-43/photo-9.jpg"
+  }
+]
